@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi I'm Shane 👋
 
+Cloud and Software Architect/Engineer with more than 14 years of experience specializing in Cloud, Automation and Python.
+
+- 🌐 Based in USA :us:
+- 💡 Interested in cloud, software automation, testing & building reliable systems
+- 🚲 Love traveling
+- 👋 Reach me on [LinkedIn](https://www.linkedin.com/in/shane-hutchins/)
+
+OSDU Contributor at [opengroup](https://community.opengroup.org)
 <!--
 **hutchins/hutchins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
